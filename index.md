@@ -3,7 +3,7 @@ layout: default
 title: Frontpage
 nav_order: 1
 description: ""
-permalink: 
+permalink: /
 ---
 
 # 資料などの置き場
