@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Blog
-permalink: /testpage/
+permalink: /testpage
 nav_order: 3
 ---
 
