@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Blog
-permalink: /blog/
+permalink: /testpage/
 nav_order: 3
 ---
 
-ミニブログ
+test
