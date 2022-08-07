@@ -2,7 +2,7 @@
 layout: default
 title: Maximaについての備忘録
 permalink: /maxima/
-nav_order: 
+nav_order: 4
 ---
 
 # Maximaについての備忘録
