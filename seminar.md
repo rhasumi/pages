@@ -4,6 +4,7 @@ title: ゼミ紹介ページ
 permalink: /seminar/
 nav_order: 2
 ---
+
 [トップページ（https://rhasumi.net）](https://rhasumi.net)へ
 
 ## 蓮見ゼミナール（武蔵大学経済学部金融学科）の紹介ページ
