@@ -32,28 +32,27 @@ install.packages("nleqslv")
 source("programname.R")
 ```
 というコマンドを実行する（programname.Rの部分は、実行したいプログラムに応じて変更する）
+
 ## Dynareプログラム（modファイル）の実行方法
-!!OctaveとDynareのインストール
+### OctaveとDynareのインストール
 - まず、[Dynareのページ](http://www.dynare.org/download)からDynareのインストーラがダウンロードできるので、インストーラの指示に従ってインストールする
 - 次に、インストールしたDynareの指定するOctaveのバージョンに合わせて、[GNU Octaveのページ](https://www.gnu.org/software/octave/download.html)よりOctaveのインストーラをダウンロードし、インストーラの指示に従ってインストールする
   - MATLABがインストールされていれば、Octaveは不要
+
 ### Dynareプログラム（modファイル）の実行
 詳しくは[Dynare の使い方について](https://github.com/rhasumi/dynamicmodels/blob/master/use_dynare.pdf)参照
 
 Octave/MATLABの起動後、
 
-1. Dynareにパスを通す（addpathコマンド）
-（例）
+1. Dynareにパスを通す（addpathコマンド）（例）
 ```
 addpath C:\programs\dynare\4.5.7\matlab
 ```
-2. modファイルのある場所を作業フォルダとして指定（cdコマンド）
-（例）
+2. modファイルのある場所を作業フォルダとして指定（cdコマンド）（例）
 ```
 cd 'C:\Documents and Settings\USERNAME\My Documents\dynare'
 ```
-3. dynareコマンドで実行
-（例）
+3. dynareコマンドで実行（例）
 ```
 dynare RBC_det
 ```
