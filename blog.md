@@ -9,7 +9,9 @@ nav_order: 5
 
 ## 2022年8月7日 Webサイト更新
 
-重い腰を上げてWebサイトの15年ぶりくらいに再構築を始めました。データはGitHubに移して、[pages](https://docs.github.com/ja/pages)で公開することにしました。[Jekyll](http://jekyllrb-ja.github.io/)というmarkdown記法が使える静的サイト生成ツールもサポートされているので入れました。
+重い腰を上げてWebサイトの15年ぶりくらいに再構築を始めました。データはGitHubに移して、[Pages](https://docs.github.com/ja/pages)で公開することにしました。[Jekyll](http://jekyllrb-ja.github.io/)というmarkdown記法が使える静的サイト生成ツールもサポートされているので入れました。
+
+html直書き→Google Site→GitHub Pages、wiki→markdownみたいな流れはあるんでしょうね。GitHubも簡単ではない（サイトは割合簡単に作れますが）ので、どれくらい普及するかは見えませんが。そして私なんかはインターネット第1世代といってもいいくらいなので何とかなりますが、若い人（スマホ世代）はついて来れるんでしょうか。
 
 ## 2021年7月9日
 ついに国は[「飲食店対策」](https://twitter.com/nishy03/status/1413134164249829389)と言いだしました。飲食店は外部不経済、課税すべき（例えば[ここ](https://www.jcer.or.jp/j-column/column-komine/20210315.html)を参照）とまでは行かずとも、そういう流れでしょう。
