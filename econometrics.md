@@ -213,7 +213,7 @@ grilic.csv is a saved file of grilic.xls in csv format.
 
 ## Ch. 4 Multiple-Equation GMM
 
-- Program (hayashi_ch4.r](http://www.rhasumi.net/data/econometrics/hayashi_ch4.r)
+- Program [hayashi_ch4.r](http://www.rhasumi.net/data/econometrics/hayashi_ch4.r)
 
 greene.csv is a saved file of greene.xls in csv format.
 
@@ -233,7 +233,7 @@ greene.csv is a saved file of greene.xls in csv format.
 
 ## Ch. 10 Cointegration
 
-- Program [ch_10.r](https://www.rhasumi.net/wiki/wiki.cgi?action=ATTACH&page=Econometrics&file=ch%5F10%2Er9
+- Program [ch_10.r](https://www.rhasumi.net/wiki/wiki.cgi?action=ATTACH&page=Econometrics&file=ch%5F10%2Er)
 
 ## References
 
