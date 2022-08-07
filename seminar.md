@@ -2,7 +2,7 @@
 layout: default
 title: ゼミ紹介ページ
 permalink: /seminar/
-nav_order: 4
+nav_order: 3
 ---
 
 # 蓮見ゼミナール（武蔵大学経済学部金融学科）の紹介ページ
