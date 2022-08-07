@@ -10,12 +10,12 @@ permalink: /
 
 ## 資料等
 
-* [『動学マクロ経済学へのいざない』サポートページ](https://www.rhasumi.net/wiki/wiki.cgi?page=dynamicmodels)
-* [ゼミ紹介ページ](https://www.rhasumi.net/wiki/wiki.cgi?page=seminar)
+* [『動学マクロ経済学へのいざない』サポートページ](dynamicmodels)
+* [ゼミ紹介ページ](seminar)
 * [過去問](https://www.rhasumi.net/wiki/wiki.cgi?page=%B2%E1%B5%EE%CC%E4)
-* [Econometrics](https://www.rhasumi.net/wiki/wiki.cgi?page=Econometrics)
-* [Maximaについての備忘録](https://www.rhasumi.net/wiki/wiki.cgi?page=Maxima%A4%CB%A4%C4%A4%A4%A4%C6%A4%CE%C8%F7%CB%BA%CF%BF)
-* [ミニブログ](testpage)
+* [Econometrics](econometrics)
+* [Maximaについての備忘録](maxima)
+* [ミニブログ](blog)
 
 ## 2022年度の講義
 
