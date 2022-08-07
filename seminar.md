@@ -2,7 +2,7 @@
 layout: default
 title: ゼミ紹介ページ
 permalink: /seminar/
-nav_order: 2
+nav_order: 4
 ---
 
 [トップページ（https://rhasumi.net）](https://rhasumi.net)へ
