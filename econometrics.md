@@ -2,7 +2,7 @@
 layout: default
 title: Econometrics
 permalink: /econometrics/
-nav_order: 3
+nav_order: 4
 ---
 
 # R programs related to  Hayashi, Fumio. Econometrics, 2000. 
