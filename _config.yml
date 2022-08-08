@@ -60,7 +60,7 @@ search_enabled: true
 
 aux_links:
   "HOME":
-    - "https://www.rhasumi.net"
+    - "https://rhasumi.net"
 
 # Footer content
 # appears at the bottom of every page's main content
