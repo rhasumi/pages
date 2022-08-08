@@ -12,7 +12,7 @@ permalink: /
 
 * [『動学マクロ経済学へのいざない』サポートページ](dynamicmodels)
 * [ゼミ紹介ページ](seminar)
-* [過去問](https://www.rhasumi.net/wiki/wiki.cgi?page=%B2%E1%B5%EE%CC%E4)
+* [過去問](https://github.com/rhasumi/rhasumi.github.io/tree/main/tests)
 * [Econometrics](econometrics)
 * [Maximaについての備忘録](maxima)
 * [ミニブログ](blog)
