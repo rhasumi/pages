@@ -11,7 +11,7 @@ nav_order: 4
 
 ```
 #including data
-Elec<-read.table("nerlove.txt")
+Elec<-read.table("https://github.com/rhasumi/rhasumi.github.io/raw/main/econometrics/nerlove.txt")
 #Creating a Data Set
 LTC<-log(Elec[,1]); LQ <- log(Elec[,2]); LPL <- log(Elec[,3]);
 LPF <- log(Elec[,4]); LPK <- log(Elec[,5])
