@@ -36,7 +36,7 @@ source("programname.R")
 ## Dynareプログラム（modファイル）の実行方法
 ### OctaveとDynareのインストール
 - まず、[Dynareのページ](http://www.dynare.org/download)からDynareのインストーラがダウンロードできるので、インストーラの指示に従ってインストールする
-- 次に、インストールしたDynareの指定するOctaveのバージョンに合わせて、[GNU Octaveのページ](https://www.gnu.org/software/octave/download.html)よりOctaveのインストーラをダウンロードし、インストーラの指示に従ってインストールする
+- 次に、インストールしたDynareの指定するOctaveのバージョンに合わせて、[GNU Octaveのページ](https://octave.org/download.html)よりOctaveのインストーラをダウンロードし、インストーラの指示に従ってインストールする
   - MATLABがインストールされていれば、Octaveは不要
 
 ### Dynareプログラム（modファイル）の実行
