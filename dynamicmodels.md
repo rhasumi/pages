@@ -11,7 +11,7 @@ nav_order: 2
 2013年ごろより掲載していた「講義ノート：動学マクロ経済学入門」を一部加筆修正のうえ2020年3月に日本評論社から単行本として刊行しました（[Kindle版](https://www.amazon.co.jp/dp/B086VXVYYT/)あり）。
 * [正誤表](http://www.rhasumi.net/data/dmacro_errata.pdf) 
 * [プログラム](https://github.com/rhasumi/dynamicmodels)（GitHub）
-** プログラム言語はRファイルはR、mファイルはMatlab/Octave、modファイルはDynareです
+  * プログラム言語はRファイルはR、mファイルはMatlab/Octave、modファイルはDynareです
 * [Dynare の使い方について](https://github.com/rhasumi/dynamicmodels/blob/master/use_dynare.pdf)（PDF、2021年10月版）
 
 ## Rプログラムの実行方法
