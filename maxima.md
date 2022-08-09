@@ -8,6 +8,7 @@ nav_order: 4
 # Maximaについての備忘録
 
 - 方程式
+
 ```
 solve([2*x+4*y=30,x+y=12],[x,y]);
 ```
@@ -27,6 +28,7 @@ ode2(diff(f(x),x)+x*f(x)=sin(x)/x,f(x),x);
 ```
 
 - ラプラス変換
+
 ```
 laplace(sin(t),t,s);
 ilt(1/(s^2+1),s,t);
@@ -35,12 +37,14 @@ integrate(sin(t)*exp(-s*t),t,0,inf);
 ```
 
 - 特性関数（正規分布）
+
 ```
 integrate(1/sqrt(2*%pi)*exp(-x^2/2)*exp(%i*x*t),x,-inf,inf);
 integrate(exp(-t^2/2)*exp(-%i*x*t),t,-inf,inf)/(2*%pi);
 ```
 
 - 極限
+
 ```
 limit(sin(x)/x,x,0);
 limit((1+1/n)^n,n,inf);
@@ -48,11 +52,13 @@ limit(1/x,x,0,plus);
 ```
 
 - tayler展開
+
 ```
 taylor(sin(x),x,0,10);
 ```
 
 - 行列
+
 ```
 M1:matrix([1,-2],[2,1]);
 M2:matrix([2,-1],[1,2]);
@@ -64,6 +70,7 @@ zeromatrix(4,4);
 ```
 
 - フーリエ級数
+
 ```
 load("fourie");
 fourier(x^2, x, 1);
@@ -76,6 +83,7 @@ fourintsin(1,x);
 ```
 
 - 関数の定義
+
 ```
 f[0]:0;
 f[1]:aa0;
@@ -95,6 +103,7 @@ define(f[n](x),x^n);
 ```
 
 - ラグランジュ乗数法
+
 ```
 r:2-x+3*y;
 obj:x^2+y^2;
@@ -109,6 +118,7 @@ ev(L,ans);
 ```
 
 ### 正規分布の導出
+
 ```
 # lam is negative 
 
@@ -126,6 +136,7 @@ ev(p(x));
 ```
 
 ### 指数分布の導出
+
 ```
  q(x) := exp(lam0 - 1 + lam1*x);
  eq1 : integrate(q(x), x, 0, inf) = 1;
