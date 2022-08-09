@@ -13,6 +13,7 @@ solve([2*x+4*y=30,x+y=12],[x,y]);
 ```
 
 - 微分方程式
+
 ```
 atvalue(x(t),t=0,A);
 atvalue(diff(x(t),t),t=0,0); 
