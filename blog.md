@@ -7,6 +7,14 @@ nav_order: 5
 
 # ミニブログ
 
+## 2022年8月9日 Juliaで将棋
+
+[MT将棋](https://www.edx.org/course/programming-for-beginners-learning-basics-with-computer-shogi)に触発されて、Juliaで将棋ソフトを作ってみたり。AI（思考エンジン）とは別のUI部分を勉強しましたが、[やねうら王](https://github.com/yaneurao/YaneuraOu/tree/master/)などのAIを借りてくればGUIソフトが作れそうなところまでは来ました。これくらいにしときますが。画像は王位戦2022第3局終局図（7七金打まで）。
+
+juliaは2年くらい使ってますが、アップデートの頻度が減って完成度が上がっているようです。が、いかんせん慣れてない人だと細かいところが難しくプロ向けです。そして、自分みたいに新しいツールをどんどん使いたい人はどれくらいいるのかといったところ。
+
+![王位戦2022第3局終局図](/jpeg/王位戦2022第3局終局図.jpg)
+
 ## 2022年8月7日 Webサイト更新
 
 重い腰を上げてWebサイトの15年ぶりくらいに再構築を始めました。データはGitHubに移して、[Pages](https://docs.github.com/ja/pages)で公開することにしました。[Jekyll](http://jekyllrb-ja.github.io/)というmarkdown記法が使える静的サイト生成ツールもサポートされているので入れました。
