@@ -11,7 +11,7 @@ nav_order: 4
 
 ```
 #including data
-Elec<-read.table("http://www.rhasumi.net/data/econometrics/nerlove.txt")
+Elec<-read.table("nerlove.txt")
 #Creating a Data Set
 LTC<-log(Elec[,1]); LQ <- log(Elec[,2]); LPL <- log(Elec[,3]);
 LPF <- log(Elec[,4]); LPK <- log(Elec[,5])
@@ -136,7 +136,7 @@ plot(log(Elec[,2]),resid(result_h), main = "QQ plot", xlab = "ln Q", ylab = "res
 
 ### Monte Carlo Exercise
 
-- Programs: [monte_carlo_ch1.r](http://www.rhasumi.net/data/econometrics/monte_carlo_ch1.r)
+- Programs: [monte_carlo_ch1.r](https://github.com/rhasumi/rhasumi.github.io/blob/main/econometrics/hayashi_ch3.r)
 
 ## Ch. 2 Large-Sample Theory
 
@@ -203,37 +203,37 @@ R_sq * length(resid(ols_e))
 
 ### Monte Carlo Exercise
 
-- Program: [monte_carlo_ch2.r](http://www.rhasumi.net/data/econometrics/monte_carlo_ch2.r)
+- Program: [monte_carlo_ch2.r](https://github.com/rhasumi/rhasumi.github.io/blob/main/econometrics/monte_carlo_ch2.r)
 
 ## Ch. 3 Single-Equation GMM
 
-- Program [hayashi_ch3.r](http://www.rhasumi.net/data/econometrics/hayashi_ch3.r)
+- Program [hayashi_ch3.r](https://github.com/rhasumi/rhasumi.github.io/blob/main/econometrics/hayashi_ch3.r)
 
 grilic.csv is a saved file of grilic.xls in csv format.
 
 ## Ch. 4 Multiple-Equation GMM
 
-- Program [hayashi_ch4.r](http://www.rhasumi.net/data/econometrics/hayashi_ch4.r)
+- Program [hayashi_ch4.r](https://github.com/rhasumi/rhasumi.github.io/blob/main/econometrics/hayashi_ch4.r)
 
 greene.csv is a saved file of greene.xls in csv format.
 
 ## Ch. 5 Panel Data
 
-- Program [hayashi_ch5.r](http://www.rhasumi.net/data/econometrics/hayashi_ch5.r)
+- Program [hayashi_ch5.r](https://github.com/rhasumi/rhasumi.github.io/blob/main/econometrics/hayashi_ch5.r)
 
 ## Ch. 6 Serial Correlation
 
-- Program [ch_6.r](https://www.rhasumi.net/wiki/wiki.cgi?page=Econometrics&file=ch%5F6%2Er&action=ATTACH)
+- Program [ch_6.r](https://github.com/rhasumi/rhasumi.github.io/blob/main/econometrics/ch_6.r)
 
 ## No programs for Ch. 7, 8
 
 ## Ch. 9 Unit-Root Econometrics
 
-- Program [ch_9.r](https://www.rhasumi.net/wiki/wiki.cgi?action=ATTACH&page=Econometrics&file=ch%5F9%2Er)
+- Program [ch_9.r](https://github.com/rhasumi/rhasumi.github.io/blob/main/econometrics/ch_9.r)
 
 ## Ch. 10 Cointegration
 
-- Program [ch_10.r](https://www.rhasumi.net/wiki/wiki.cgi?action=ATTACH&page=Econometrics&file=ch%5F10%2Er)
+- Program [ch_10.r](https://github.com/rhasumi/rhasumi.github.io/blob/main/econometrics/ch_10.r)
 
 ## References
 
