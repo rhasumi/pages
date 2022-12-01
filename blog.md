@@ -7,6 +7,19 @@ nav_order: 5
 
 # ミニブログ
 
+## 2022年12月1日 macOS 13 Ventura
+
+うっかりmacOS 13 Venturaにアップデートしたところ、[外部ディスプレイを接続するとHiDPIモード変更ができない問題](https://applech2.com/archives/20221107-macos-13-ventura-external-display-issue.html)（フォントがぼやける）に遭遇して格闘してたのですが、[BetterDisplay](https://github.com/waydabber/BetterDisplay)というサードパーティソフトでディスプレイの解像度を
+元のMontereyでの状態に戻せました。
+
+Some Macs have issues with custom resolutions. Apple Silicon Macs notoriously don't allow sub-4K resolution displays to have HiDPI ("Retina") resolutions even though some 1440p display would greatly benefit from having a HiDPI "Retina" mode. On other Macs the resolution options for wide displays are too constrained.
+
+BetterDisplay solves the problem by unlocking your screens making them fully scalable natively while providing a nice HiDPI resolution slider to freely scale the desktop size.
+
+Macではカスタム解像度に問題が起こる場合がある。Apple Silicon Macは、1440pのディスプレイがHiDPIのRetinaモードを持つことで大きな恩恵を受けるにもかかわらず、4K以下の解像度のディスプレイにHiDPI（Retina）解像度を持たせないという悪名高い仕様になっている。他のMacでも、ワイドディスプレイの解像度オプションに多くの制約がつけられている。
+
+BetterDisplayは、デスクトップサイズを自由に変更できるHiDPI解像度スライダーを提供し、画面をネイティブで完全にスケーラブルにする。
+
 ## 2022年8月9日 Juliaで将棋
 
 [MT将棋](https://www.edx.org/course/programming-for-beginners-learning-basics-with-computer-shogi)に触発されて、Juliaで将棋ソフトを作ってみたり。AI（思考エンジン）とは別のUI部分を勉強しましたが、[やねうら王](https://github.com/yaneurao/YaneuraOu/tree/master/)などのAIを借りてくればGUIソフトが作れそうなところまでは来ました。これくらいにしときますが。画像は王位戦2022第3局終局図（7七金打まで）。
