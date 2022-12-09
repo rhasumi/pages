@@ -98,7 +98,7 @@ Mac OSを使うのはIntel CPU移直後の初代MacBook（2006年）以来です
 
 ## 2020年6月12日 8/4追記
 確率過程論のリーディングリスト
-- [入門確率過程]((https://www.amazon.co.jp/dp/4489006594)
+- [入門確率過程](https://www.amazon.co.jp/dp/4489006594)
 - [集合と位相空間](https://www.amazon.co.jp/dp/4254115881)
 - [Probability with Martingales](https://www.amazon.co.jp/dp/0521406056)
   - 邦訳：[マルチンゲールによる確率論](https://www.amazon.co.jp/dp/4563008850)
