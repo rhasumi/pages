@@ -7,6 +7,12 @@ nav_order: 5
 
 # ミニブログ
 
+## 2023年5月4日 夜間滞留人口
+
+東京都モニタリング会議資料によると、現在（2023年4月）の繁華街夜間滞留人口（18-24時）は2019年比で50％だそう。感覚的にもそんなものかと思います。不本意な人も多いでしょうが、「新しい生活様式」が定着しつつあるようです。
+
+![夜間滞留人口](/jpeg/東京都モニタリング会議2304.png)
+
 ## 2022年12月1日 macOS 13 Ventura
 
 うっかりmacOS 13 Venturaにアップデートしたところ、[外部ディスプレイを接続するとHiDPIモード変更ができない問題](https://applech2.com/archives/20221107-macos-13-ventura-external-display-issue.html)（フォントがぼやける）に遭遇して格闘してたのですが、[BetterDisplay](https://github.com/waydabber/BetterDisplay)というサードパーティソフトでディスプレイの解像度を
