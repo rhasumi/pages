@@ -12,7 +12,7 @@ nav_order: 2
 * [正誤表](http://www.rhasumi.net/data/dmacro_errata.pdf) 
 * [プログラム](https://github.com/rhasumi/dynamicmodels)（GitHub）
   * プログラム言語はRファイルはR、mファイルはMatlab/Octave、modファイルはDynareです
-* [Dynare の使い方について](https://github.com/rhasumi/dynamicmodels/blob/master/use_dynare.pdf)（PDF、2021年10月版）
+* [Dynare の使い方について](https://github.com/rhasumi/dynamicmodels/blob/master/use_dynare.pdf)（PDF、2023年10月版）
 
 ## Rプログラムの実行方法
 
