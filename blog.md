@@ -7,6 +7,17 @@ nav_order: 5
 
 # ミニブログ
 
+## 2025年8月28日 夏休みの自由研究（？）
+
+凝り性なせいで、Kreps-Yan の分離定理、No Free Lunch with Vanishing Risk (NFLVR) <=> 同値マルチンゲール測度（EMM）の存在、の証明を追いましたが、
+- Hahn-Banachの分離定理
+- Lp空間に対するリースの表現定理
+- ツォルンの補題
+- 汎弱位相
+が関係していて深いです。
+
+そしてこの分野はリーマンショック前あたりに一度全盛期を迎えたようだとの所感。
+
 ## 2025年3月25日
 
 神田伯山の大学での[Youtube公録動画](https://www.youtube.com/watch?v=o2OkAQ6bL-U)を視聴
