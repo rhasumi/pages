@@ -12,7 +12,7 @@ nav_order: 2
 * [正誤表](http://www.rhasumi.net/data/dmacro_errata.pdf) 
 * [プログラム](https://github.com/rhasumi/dynamicmodels)（GitHub）
   * プログラム言語はRファイルはR、mファイルはMatlab/Octave、modファイルはDynareです
-* [Dynare の使い方について](https://github.com/rhasumi/dynamicmodels/blob/master/use_dynare.pdf)（PDF、2023年10月版）
+* [Dynare の使い方について](https://github.com/rhasumi/dynamicmodels/blob/master/use_dynare.pdf)（PDF、2025年9月版）
 
 ## Rプログラムの実行方法
 
@@ -46,7 +46,7 @@ Octave/MATLABの起動後、
 
 1. Dynareにパスを通す（addpathコマンド）（例）
 ```
-addpath C:\programs\dynare\4.5.7\matlab
+addpath C:\programs\dynare\6.4\matlab
 ```
 2. modファイルのある場所を作業フォルダとして指定（cdコマンド）（例）
 ```
