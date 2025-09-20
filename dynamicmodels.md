@@ -17,7 +17,7 @@ nav_order: 2
 ## Rプログラムの実行方法
 
 ### Rのインストール
-- [CRAN](https://cran.ism.ac.jp/)よりインストーラがダウンロードできるので、インストーラの指示に従ってインストールする
+- [CRAN](https://ftp.yz.yamagata-u.ac.jp/pub/cran/)よりインストーラがダウンロードできるので、インストーラの指示に従ってインストールする
 - `nleqslv`というパッケージを用いるので、インターネットにアクセス可能な状態で、Rコンソール上で
 ```
 install.packages("nleqslv")
